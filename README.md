@@ -1,4 +1,4 @@
-# MOCS Fall 2024
+# Modeling Complex Systems I
 
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
 
