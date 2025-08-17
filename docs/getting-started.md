@@ -1,6 +1,6 @@
 # Getting started
 
-Welcome to Modeling Complex Systems (MOCS) Fall 2024! This is the support website where we'll share most of the class content, excluding homework assignments. Homeworks will be available on [Brightspace](https://brightspace.uvm.edu/d2l/login).
+Welcome to Modeling Complex Systems (MOCS) Fall 2025! This is the support website where we'll share most of the class content, excluding homework assignments. Homeworks will be available on [Brightspace](https://brightspace.uvm.edu/d2l/login).
 
 MOCS is designed as a hybrid, graduate level introduction to computational and mathematical modeling of complex systems. This is a core course for students at [Vermont Complex Systems Center](https://vermontcomplexsystems.org/), but everybody are welcome. We use a breadth-first presentation of varied topics and methods, with hands-on experiences and mini-research problems with an emphasis on the relations and trade-offs between the different approaches. Undergraduates are held to the same expectations as graduate students. See [syllabus](./syllabus) for more details.
 
@@ -17,6 +17,13 @@ How is this website organized?
 ## Who are we?
 
 <div class="gallery grid grid-cols-4" style="grid-auto-rows;">
+    <a href="http://laurenthebertdufresne.github.io/" target="_blank">
+        <picture>
+            <source srcset="./assets/lhd.webp" media="(prefers-color-scheme: dark)">
+            <img src="./assets/lhd.webp">
+        </picture>
+        <div class="small arrow">Laurent Hébert-Dufresne (Instructor on sabbatical)</div>
+    </a>
     <a href="https://www.uvm.edu/socks/node/38?rnd=0.8126330183365708#giulioburgio" target="_blank">
         <picture>
             <source srcset="./assets/Giulio.webp" media="(prefers-color-scheme: dark)">
@@ -38,18 +45,11 @@ How is this website organized?
         </picture>
         <div class="small arrow">Prianka Bhattacharjee (teaching assistant)</div>
     </a>
-    <a href="http://laurenthebertdufresne.github.io/" target="_blank">
-        <picture>
-            <source srcset="./assets/lhd.webp" media="(prefers-color-scheme: dark)">
-            <img style="opacity: 0.3;" src="./assets/lhd.webp">
-        </picture>
-        <div style="opacity: 0.3;" class="small arrow">Laurent Hébert-Dufresne (Instructor on sabbatical)</div>
-    </a>
 </div>
 
 ## What is complexity
 
-Laurent Hébert-Dufresne gave the following answer to a journalist:
+Here's an answer:
 
 <figure class="quote">
   <blockquote>
@@ -60,16 +60,16 @@ Laurent Hébert-Dufresne gave the following answer to a journalist:
     So, I use “complexity” almost as virtue signaling—to group the subfield of scientists interested in studying these complex systems and open to doing it with tools and perspective from different disciplines. Identifying with “complexity” is a signal that you're open to dialogue and weird ideas more so than a defined science. [...] It's more of a perspective or a mentality and less of a science. That's how I see it. [...] No particular systems of interest, but more about a perspective with which we do many kinds of science.
   </blockquote>
   <figcaption>
-    &mdash; LHD's answer, <cite><a href="https://www.uvm.edu/news/story/honeybees-hate-speech">Honeybees to Hate Speech</a></cite>  </figcaption>
+    &mdash; From <cite><a href="https://www.uvm.edu/news/story/honeybees-hate-speech">Honeybees to Hate Speech</a></cite>  </figcaption>
 </figure>
 
-In this class, we will seek to understand his definition. But at the end, you should have your own answer, which may or not agree with LHD's. 
+In this class, we will seek to understand his definition. But at the end, you should have your own answer, which may or not agree with the above answer. 
 
-Here is LHD introducing MOCS in his own words as well:
+Here is another introduction from previous year:
 
 <iframe src="https://streaming.uvm.edu/embed/49955/" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-We will be sharing more clips like these, as LHD does an excellent job in explaining complex systems concepts. Our role as instructors will be to help you deepen your understanding of the insights from these clips and to offer additional perspectives of our own.
+We will be sharing more clips like these. Our role as instructors will be to help you deepen your understanding of the insights from these clips and to offer additional perspectives of our own.
 
 ## Textbook(s)
 

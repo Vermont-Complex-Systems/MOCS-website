@@ -1,8 +1,8 @@
 <div class="container">
-    <img src="./assets/ModelingComplexSystems_F2024_Syllabus_Homeworks-1.webp" alt="Homework 1">
-    <img src="./assets/ModelingComplexSystems_F2024_Syllabus_Homeworks-2.webp" alt="Homework 2">
-    <img src="./assets/ModelingComplexSystems_F2024_Syllabus_Homeworks-3.webp" alt="Homework 3">
-    <img src="./assets/ModelingComplexSystems_F2024_Syllabus_Homeworks-4.webp" alt="Homework 4">
+    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-1.webp" alt="Homework 1">
+    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-2.webp" alt="Homework 2">
+    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-3.webp" alt="Homework 3">
+    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-4.webp" alt="Homework 4">
 </div>
 
 <style>

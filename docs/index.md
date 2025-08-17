@@ -4,33 +4,33 @@ toc: false
 
 <div class="hero">
   <h1>Modeling Complex Systems</h1>
-  <h2>Welcome to MOCS Fall 2024! </h2>
-  <a href="https://mocs.observablehq.cloud/mocs-fall-2024/getting-started" target="_blank">Get started<span style="display: inline-block; margin-left: 0.25rem;">→</span></a>
+  <h2>Welcome to MOCS Fall 2025! </h2>
+  <a href="https://jstonge.github.io/MOCS-website/getting-started" target="_blank">Get started<span style="display: inline-block; margin-left: 0.25rem;">→</span></a>
 </div>
 
 <div class="gallery grid grid-cols-4" style="grid-auto-rows;">
-    <a href="https://mocs.observablehq.cloud/mocs-fall-2024/Dynamics" target="_blank">
+    <a href="https://jstonge.github.io/MOCS-website/Dynamics" target="_blank">
     <picture>
         <source srcset="./assets/lotka-volterra.webp" media="(prefers-color-scheme: dark)">
         <img src="./assets/lotka-volterra.webp">
     </picture>
     <div class="small arrow">💡 ODEs</div>
     </a>
-    <a href="https://mocs.observablehq.cloud/mocs-fall-2024/Structure-part-1" target="_blank">
+    <a href="https://jstonge.github.io/MOCS-website/Structure-part-1" target="_blank">
     <picture>
         <source srcset="./assets/ElementaryCARule030_700.webp" media="(prefers-color-scheme: dark)">
         <img src="./assets/ElementaryCARule030_700.webp">
     </picture>
     <div class="small arrow">💡 Cellular automata</div>
     </a>
-    <a href="https://mocs.observablehq.cloud/mocs-fall-2024/Structure-part-2" target="_blank">
+    <a href="https://jstonge.github.io/MOCS-website/Structure-part-2" target="_blank">
     <picture>
         <source srcset="./assets/menczer.webp" media="(prefers-color-scheme: dark)">
         <img src="./assets/menczer.webp">
     </picture>
     <div class="small arrow">💡 Networks</div>
     </a>
-    <a href="https://mocs.observablehq.cloud/mocs-fall-2024/Dynamics-and-Structure" target="_blank">
+    <a href="https://jstonge.github.io/MOCS-website/Dynamics-and-Structure" target="_blank">
     <picture>
         <source srcset="./assets/abms.webp" media="(prefers-color-scheme: dark)">
         <img src="./assets/abms.webp">
