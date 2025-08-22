@@ -3,7 +3,7 @@ export default {
   title: "MOCS Fall 2025",
   pages: [
     { name: "Getting Started", path: "/getting-started" },
-    { name: "Week 1: Why models", path: "/W1-why-models" },
+    { name: "Week 1: Why model?", path: "/W1-why-model" },
     { name: "Week 2: Modeling", path: "/W2-modeling" },
     {
       name: "Dynamics",
