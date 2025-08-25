@@ -15,12 +15,12 @@
     <h3>📚 Week 2 readings</h3>
     <ul class="reading-list">
       <li><span>📖</span> <a href="https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/02%3A_Fundamentals_of_Modeling" target="_blank">Fundamentals of Modeling  (Ch. 2 Sayama)</a><sup>*</sup></li>
-      <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/OttoDay-2007-Ch2.pdf" target="_blank">How to construct a model (Ch. 2 Otto & Day)</a></li>
-      <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/Smaldino-2023-ch1.pdf" target="_blank">Doing Violence to Reality (The rest of Ch.1 Smaldino)</a></li>
+      <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/Smaldino-2023-ch1.pdf" target="_blank">Doing Violence to Reality (Ch.1 Smaldino)</a><sup>*</sup></li>
       <li><span>🔍</span> <a href="https://plato.stanford.edu/entries/models-science/" target="_blank">Sections 1-2 of Models in Science (SEP)</a><sup>*</sup></li>
       <li><span>🔍</span> <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.8.6.147" target="_blank">Contribution to the Energetics of Evolution (Lotka, 1922)</a><sup>*</sup></li>
+      <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/OttoDay-2007-Ch2.pdf" target="_blank">How to construct a model (Ch. 2 Otto & Day)</a></li>
       <li><span>🔍</span> <a href="https://www.jstor.org/stable/27836590" target="_blank">THE STRATEGY OF MODEL BUILDING IN POPULATION BIOLOGY (Levins 1966)</a></li>
-      <li><span>📝</span> <a href="https://www2.psych.ubc.ca/~schaller/528ReadingsSmaldino2020.pdf" target="_blank">How to Translate a Verbal Theory Into a Formal Model (Smaldino)</a></li>
+      <li><span>📝</span> <a href="https://smaldino.com/wp/wp-content/uploads/2021/11/Smaldino2020-HowToTranslateAVerbalTheoryToFormalModel.pdf" target="_blank">How to Translate a Verbal Theory Into a Formal Model (Smaldino, 2020)</a></li>
       <li><span>💡</span> <a href="https://hbr.org/2018/11/why-many-model-thinkers-make-better-decisions" target="_blank">Why “Many-Model Thinkers” Make Better Decisions</a></li>
     </ul>
   </div>
