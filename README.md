@@ -1,5 +1,9 @@
 # Modeling Complex Systems I
 
+This is the github repository for the MOCS website, build with observable. See details to get started.
+
+<details><summary>Observable framework instruction!</summary>
+  
 This is an [Observable Framework](https://observablehq.com/framework) project. To start the local preview server, run:
 
 ```
@@ -51,3 +55,6 @@ A typical Framework project looks like this:
 | `npm run deploy`     | Deploy your project to Observable                        |
 | `npm run clean`      | Clear the local data loader cache                        |
 | `npm run observable` | Run commands like `observable help`                      |
+
+</details>
+
