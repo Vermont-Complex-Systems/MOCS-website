@@ -54,12 +54,12 @@ export default {
     { name: "Evaluation", path: "/eval" },
     { name: "References", path: "/refs" },
     { name: "Computational resources", path: "/comp-resources" },
-    { name: "Pluto ↗", path: "https://jstonge.github.io/2025Fall-MOCS/"},
-    { name: "Notebooks ↗", path: "https://github.com/jstonge/2025Fall-MOCS/tree/main/notebooks"},
+    { name: "Pluto ↗", path: "https://github.com/Vermont-Complex-Systems/MOCS-website/tree/main/pluto"},
+    { name: "Notebooks ↗", path: "https://github.com/Vermont-Complex-Systems/MOCS-website/tree/main/notebooks"},
   ],
   // Content to add to the head of the page, e.g. for a favicon:
   head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
-  header: ({path}) => `<div style="display: justify-content: flex-end; direction: rtl;"><small><a href="https://github.com/jstonge/2025Fall-MOCS/blob/main/docs${path}.md?plain=1">view source</a></small></div>`,
+  header: ({path}) => `<div style="display: justify-content: flex-end; direction: rtl;"><small><a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs${path}.md?plain=1">view source</a></small></div>`,
   root: "docs", // path to the source root for preview
   output: "dist", // path to the output root for build
   search: true, // activate search

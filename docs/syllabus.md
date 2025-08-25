@@ -1,8 +1,11 @@
 <div class="container">
-    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-1.webp" alt="Homework 1">
-    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-2.webp" alt="Homework 2">
-    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-3.webp" alt="Homework 3">
-    <img src="./assets/ModelingComplexSystems_F2025_Syllabus_Homeworks-4.webp" alt="Homework 4">
+    <img src="./assets/MOCS_F2025_Syllabus_1.webp" alt="Syllabus 1">
+    <img src="./assets/MOCS_F2025_Syllabus_2.webp" alt="Syllabus 2">
+    <img src="./assets/MOCS_F2025_Syllabus_3.webp" alt="Syllabus 3">
+    <img src="./assets/MOCS_F2025_Syllabus_4.webp" alt="Syllabus 4">
+    <img src="./assets/MOCS_F2025_Syllabus_5.webp" alt="Syllabus 5">
+    <img src="./assets/MOCS_F2025_Syllabus_6.webp" alt="Syllabus 6">
+    <img src="./assets/MOCS_F2025_Syllabus_7.webp" alt="Syllabus 7">
 </div>
 
 <style>

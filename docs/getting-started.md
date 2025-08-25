@@ -2,7 +2,7 @@
 
 Welcome to Modeling Complex Systems (MOCS) Fall 2025! This is the support website where we'll share most of the class content, excluding homework assignments. Homeworks will be available on [Brightspace](https://brightspace.uvm.edu/d2l/login).
 
-MOCS is designed as a hybrid, graduate level introduction to computational and mathematical modeling of complex systems. This is a core course for students at [Vermont Complex Systems Center](https://vermontcomplexsystems.org/), but everybody are welcome. We use a breadth-first presentation of varied topics and methods, with hands-on experiences and mini-research problems with an emphasis on the relations and trade-offs between the different approaches. Undergraduates are held to the same expectations as graduate students. See [syllabus](./syllabus) for more details.
+MOCS is designed as a hybrid, graduate level introduction to computational and mathematical modeling of complex systems. This is a core course for students at [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/), but everyone is welcomed. We use a breadth-first presentation of varied topics and methods, with hands-on experiences and mini-research problems with an emphasis on the relations and trade-offs between the different approaches. Undergraduates are held to the same expectations as graduate students. See [syllabus](./syllabus) for more details.
 
 How is this website organized?
 
@@ -11,8 +11,7 @@ How is this website organized?
     - We will share fun, interactive content related to the module.
 - You can find additional references on complex systems [here](./refs). Module-specific content is available on each module's main page.
 - We will make jupyter notebooks available throughout the semester [here](./notebooks).
-- You can find extra ressources for computer sciency stuff (Github, Python, Julia, etc) and advanced readings in [here](./extra-resources). Prianka will be your guide for the computer sciency stuff.
-- We have 
+- You can find extra ressources for computer sciencey stuff (Github, Python, Julia, etc) and advanced readings in [here](./extra-resources). Shun Zhang will be your guide for the computer sciency stuff.
 
 ## Who are we?
 
@@ -22,28 +21,28 @@ How is this website organized?
             <source srcset="./assets/lhd.webp" media="(prefers-color-scheme: dark)">
             <img src="./assets/lhd.webp">
         </picture>
-        <div class="small arrow">Laurent Hébert-Dufresne (Instructor on sabbatical)</div>
+        <div class="small arrow">Laurent Hébert-Dufresne (Instructor)</div>
     </a>
     <a href="https://www.uvm.edu/socks/node/38?rnd=0.8126330183365708#giulioburgio" target="_blank">
         <picture>
             <source srcset="./assets/Giulio.webp" media="(prefers-color-scheme: dark)">
             <img src="./assets/Giulio.webp">
         </picture>
-        <div class="small arrow">Giulio Burgio (co-lead instructor)</div>
+        <div class="small arrow">Giulio Burgio (co-lead developper)</div>
     </a>
     <a href="https://jstonge.vercel.app/" target="_blank">
         <picture>
             <source srcset="./assets/jso.webp" media="(prefers-color-scheme: dark)">
             <img src="./assets/jso.webp">
         </picture>
-        <div class="small arrow">Jonathan St-Onge (co-lead instructor)</div>
+        <div class="small arrow">Jonathan St-Onge (co-lead developper)</div>
     </a>
-    <a href="https://www.linkedin.com/in/prianka-bhattacharjee-bb7a69109/" target="_blank">
+    <a href="https://vermontcomplexsystems.org/" target="_blank">
         <picture>
-            <source srcset="./assets/prianka.webp" media="(prefers-color-scheme: dark)">
-            <img src="./assets/prianka.webp">
+            <source srcset="./assets/shun.webp" media="(prefers-color-scheme: dark)">
+            <img src="./assets/shun.webp">
         </picture>
-        <div class="small arrow">Prianka Bhattacharjee (teaching assistant)</div>
+        <div class="small arrow">Shun Zhang (graduate teaching assistant)</div>
     </a>
 </div>
 
@@ -65,28 +64,28 @@ Here's an answer:
 
 In this class, we will seek to understand his definition. But at the end, you should have your own answer, which may or not agree with the above answer. 
 
-Here is another introduction from previous year:
+Here is another introduction from a past before time:
 
 <iframe src="https://streaming.uvm.edu/embed/49955/" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
-We will be sharing more clips like these. Our role as instructors will be to help you deepen your understanding of the insights from these clips and to offer additional perspectives of our own.
+We will be sharing more clips like these as we go on. The role of this website is to help you deepen your understanding of the insights from these clips and to offer additional perspectives, sometimes from Jonathan's point-of-view (philosophy and cultural evolution) or Giulio's expertise (physics).
 
 ## Textbook(s)
 
-For the class, we will use Hiroki Sayama's [Introduction to the Modeling and Analysis of Complex Systems](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)). It is free and online. It has python code. 
+For the class, we will use Hiroki Sayama's [Introduction to the Modeling and Analysis of Complex Systems](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)). It is free and online. It has python code (sometimes out-of-date). We will skip some of the chapters that go deeper into analysis of models and instead focus on additional modeling techniques. In particular, the website and videos will add more tools or intuition around network science, agent-based models, and game theory (if time allows).
 
-But I also think that the following two books could have done as much a good job:
+But for those interested, we also think that the following two books could have done a good job:
     
 - [A First Course in Network Science (Menczer 2020)](https://www.cambridge.org/highereducation/books/first-course-in-network-science/EE22722F27519D8BB1443C7225C57BAF#overview)
 - [ Modeling Social Behavior: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution (Smaldino 2023)](https://press.princeton.edu/books/paperback/9780691224145/modeling-social-behavior?srsltid=AfmBOorePduR0U08FlRogK-f7wGabiko62RAu8iX6knapk_xWLGUw9jE)
 
-They cover some of the same materials. They are geared towards the social sciences, with plenty of examples of disinformation and cultural evolution. 
+They cover some of the same materials. They are geared towards the social sciences, with plenty of examples of disinformation and cultural evolution.
 
 We will also read in-depth articles. Each week, there will be a <big>`This week reading`</big> box at the start of the page. Articles denoted with stars(*) are mandatory. 
 
 ## How to follow the class content
 
-You must look through each week content before coming to class on Tuesdays. The content includes short clips and readings. They will be the basis for in-class discussions and small quizzes that you must take before the Thursday of the same week. 
+You must look through each week content before coming to class on Tuesdays. Note that the module names themselves are clickable and will contain big-picture summary of the module and links to additional resources. Weekly content includes short clips and readings. They will be the basis for in-class discussions and small quizzes that you must take before the Thursday of the same week. 
 
 
 <style>
