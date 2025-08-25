@@ -39,8 +39,8 @@ How is this website organized?
     </a>
     <a href="https://vermontcomplexsystems.org/" target="_blank">
         <picture>
-            <source srcset="./assets/shun.webp" media="(prefers-color-scheme: dark)">
-            <img src="./assets/shun.webp">
+            <source srcset="./assets/Giulio.webp" media="(prefers-color-scheme: dark)">
+            <img src="./assets/Giulio.webp">
         </picture>
         <div class="small arrow">Shun Zhang (graduate teaching assistant)</div>
     </a>
