@@ -81,11 +81,13 @@ But for those interested, we also think that the following two books could have 
 
 They cover some of the same materials. They are geared towards the social sciences, with plenty of examples of disinformation and cultural evolution.
 
-We will also read in-depth articles. Each week, there will be a <big>`This week reading`</big> box at the start of the page. Articles denoted with stars(*) are mandatory. 
+We will also read in-depth articles. Each week, there will be a <big>`This week reading`</big> box at the start of the page. Articles denoted with stars (\*) are mandatory. 
 
 ## How to follow the class content
 
 You must look through each week content before coming to class on Tuesdays. Note that the module names themselves are clickable and will contain big-picture summary of the module and links to additional resources. Weekly content includes short clips and readings. They will be the basis for in-class discussions and small quizzes that you must take before the Thursday of the same week. 
+
+Again, note that there is a <big>`This week reading`</big> box at the start of each weekly page. Articles denoted with stars (\*) are mandatory. 
 
 
 <style>
