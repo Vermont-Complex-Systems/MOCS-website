@@ -54,7 +54,6 @@ export default {
     { name: "Evaluation", path: "/eval" },
     { name: "References", path: "/refs" },
     { name: "Computational resources", path: "/comp-resources" },
-    { name: "Pluto ↗", path: "https://github.com/Vermont-Complex-Systems/MOCS-website/tree/main/pluto"},
     { name: "Notebooks ↗", path: "https://github.com/Vermont-Complex-Systems/MOCS-website/tree/main/notebooks"},
   ],
   // Content to add to the head of the page, e.g. for a favicon:
