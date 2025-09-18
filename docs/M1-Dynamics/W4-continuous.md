@@ -14,9 +14,9 @@ toc: true
     <h3>📚 Week 4 readings</h3>
     <ul class="reading-list">
     <li><span>📖</span> <a href="https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/06%3A_ContinuousTime_Models_I__Modeling" target="_blank">Continuous-Time Models I-II - Modeling  (Ch. 6-7 Sayama)</a><sup>*</sup>, but skip sections 7.3, 7.4 and 7.5</li>
-    <li><span>📖</span> <a href="" target="_blank"> Otto & Day (Box 2.6)</a> contains a nice discussion on the relationship between discrete-time and continuous-time models</li>
-    <li><span>📖</span> <a href="" target="_blank"> Equilibria and Stability Analysis - One-Variable models (Otto & Day, Ch. 5)</a> contains a nice discussion on the relationship between discrete-time and continuous-time models</li>
-    <li><span>📖</span> <a href="" target="_blank"> Primer 1: Functions and approximations (Otto & Day, pp.89-109)</a> see P1.3 for the Taylor Series.</li>
+    <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/OttoDay-2007-Ch2.pdf" target="_blank"> Otto & Day (Box 2.6)</a> contains a nice discussion on the relationship between discrete-time and continuous-time models</li>
+    <li><span>📖</span> <a href="https://www.academia.edu/33024900/A_Biologists_Guide_to_Mathematical_Modeling_in_Ecology_and_Evolution_1E_Otto_Day_posible_sustituto_de_mmath_ecology_" target="_blank"> Equilibria and Stability Analysis - One-Variable models (Otto & Day, Ch. 5)</a> contains a nice discussion on the relationship between discrete-time and continuous-time models</li>
+    <li><span>📖</span> <a href="https://www.academia.edu/33024900/A_Biologists_Guide_to_Mathematical_Modeling_in_Ecology_and_Evolution_1E_Otto_Day_posible_sustituto_de_mmath_ecology_" target="_blank"> Primer 1: Functions and approximations (Otto & Day, pp.89-109)</a> see P1.3 for the Taylor Series.</li>
     <li><span>📖</span> <a href="https://brightspace.uvm.edu/content/enforced/89569-202409-AM-Crosslisted/csfiles/home_dir/courses/202209-0824C-Merged/NatureMethods_Model1.pdf?ou=89569" target="_blank">Modeling Infectious Epidemics</a> and <a href="https://brightspace.uvm.edu/content/enforced/89569-202409-AM-Crosslisted/csfiles/home_dir/courses/202209-0824C-Merged/NatureMethods_Model2.pdf?ou=89569" target="_blank">Modeling Infectious Epidemics – SEIRS Model</a><sup>*</sup></li>
     </ul>
   </div>
