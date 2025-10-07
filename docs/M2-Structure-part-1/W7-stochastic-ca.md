@@ -4,8 +4,8 @@
   <h3>📚 Week 7 readings</h3>
   <ul class="reading-list">
     <li><span>📖</span> <a href="https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/12%3A_Cellular_Automata_II__Analysis" target="_blank">Cellular Automata I - Analysis (Ch. 12 Sayama)</a><sup>*</sup></li>
-    <li><span>📖</span> <a href="https://brightspace.uvm.edu/content/enforced/84713-202409-92381/csfiles/home_dir/courses/202209-0824C-Merged/WittenSander_DLA_1981.pdf?ou=84713" target="_blank">Diffusion-Limited Aggregation (Witten & Sander 1981)</a><sup>*</sup></li>
-    <li><span>📖</span> <a href="https://brightspace.uvm.edu/content/enforced/84713-202409-92381/csfiles/home_dir/courses/202209-0824C-Merged/The_essence_of_noise.pdf?ou=84713" target="_blank">The essence of noise in nature with reference to acoustics (Rosenhouse 2012)</a><sup>*</sup></li>
+    <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/WittenSander_DLA_1981.pdf" target="_blank">Diffusion-Limited Aggregation (Witten & Sander 1981)</a><sup>*</sup></li>
+    <li><span>📖</span> <a href="https://github.com/Vermont-Complex-Systems/MOCS-website/blob/main/docs/readings/The_essence_of_noise.pdf" target="_blank">The essence of noise in nature with reference to acoustics (Rosenhouse 2012)</a><sup>*</sup></li>
   </ul>
 </div>
 
